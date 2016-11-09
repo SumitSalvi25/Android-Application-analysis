@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.0.1_c169eee41adfd24e4c498b906bb2975d686dc29b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_aa7d359f37f993a2b10aa72e478699319efb6772.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\exploded-aar\com.github.yukuku\ambilwarna\2.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7ed87c7f833e46dacace668e63cb8c4b67cb3172">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\com.github.yukuku-ambilwarna-2.0.1_6bc22873add2eea9b5e88b19955b9469a8e90f3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_04d5e0a0d61ed9ee5ed7fa097cd9a8bd37fbe5f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_2c63a71082e0e8d2edc3b206bad1925589212136.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.0.1\345b89f45d02d8b09400b472fab7b7e38f4ede1f\butterknife-annotations-8.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.0.1_73d7ed08d394af9ab47d3a937253cbab65156c19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-runtime\1.0.3\10f40d016700cf4287e49fa1d51c2a8507e9b946\kotlin-runtime-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="10f40d016700cf4287e49fa1d51c2a8507e9b946">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\kotlin-runtime-1.0.3_3d28e797ea1f37adc697deaadf075fe3e42371e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_552b985ef71800fc5e6a424a71c589dcf88ed4ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_6c73fa91e6b627a44ad8152dddea18203b803d49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9a786f0cf15d3d861ff1c8ec3de2f5ee16a79403">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6e2a8d688a74acd2c847908642080d99cd463263.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_3ed5537a12062cc09463640aa5a97fd5ad5a1ec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_8131d04abc587366165c33b0fe070c784a6cbe24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="21310159158bb67c27974d0a50c0db68c98f64c3">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\instant-run_ec994b9ec5d4adca20d9950f577e3c79baa411fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.9.1\c261495d1e01df849cdb3cbc941564018f0d3539\joda-time-2.9.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c261495d1e01df849cdb3cbc941564018f0d3539">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\joda-time-2.9.1_b0a076f1a89049250090da941249d0d8a600a08b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_ea2416c66075814efa6efde051017aafe5c1ee7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\exploded-aar\com.facebook.stetho\stetho\1.4.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26b6f0185cbba8917ba9d9d0bd170f95311622ab">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\com.facebook.stetho-stetho-1.4.1_72b50f9b08a147b2cea627bf72ea7af639305b8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_185379c3c1e37a78ca6bcce7e16c8a929ba13cc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\commons-cli-1.2_7a32dae4b8416d77d690e422611fb1b832150eaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumit\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.0.3\20738122b53399036c321eeb84687367757d622a\kotlin-stdlib-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="20738122b53399036c321eeb84687367757d622a">
+        <dex dex="C:\Users\sumit\AndroidStudioProjects\Simple-Calendar\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.0.3_055e9cd23d04ad17a66f2723af187f5572ccfc25.jar" />
+    </item>
+
+</items>
